@@ -15,10 +15,10 @@ Here are some exciting screenshots from the game:
 ![Screenshot 2023-07-03 19 45 50](https://github.com/Prajjwal-Chauhan/ArcadeGame_DragonNinja/assets/83890311/ef1327f6-6894-4dda-a29f-899a6e7790ad)
 ![Screenshot 2023-07-03 19 47 11](https://github.com/Prajjwal-Chauhan/ArcadeGame_DragonNinja/assets/83890311/1ec5681a-be83-4868-8ed4-562e7080cf77)
 
-<!--## Gameplay Video 🎥-->
+## Gameplay Video 🎥
 
 
-<!--Check out the gameplay video for a sneak peek of the game: [Gameplay Video](https://www.example.com/gameplay-video)-->
+Check out the gameplay video for a sneak peek of the game: [Gameplay Video](https://www.linkedin.com/posts/prajjwal-chauhan-0a4ba820a_arcadegame-multiplayergaming-java-activity-7081677979210162176-Md5V?utm_source=share&utm_medium=member_desktop)
 
 ## How to Play 🎮
 
