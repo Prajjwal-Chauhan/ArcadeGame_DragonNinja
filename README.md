@@ -91,7 +91,7 @@ If you encounter any issues related to file access or need to specify a differen
 
 ## License 📄
 
-The Arcade Game is released under the [**MIT License**](LICENSE). Feel free to modify and distribute the game as per the terms of the license.
+The **DRAGON NINJA** Arcade Game is released under the [**GNU GPLv3.0 License**](LICENSE). Feel free to modify and distribute the game as per the terms of the license.
 
 ## Contributing 🤝
 
